@@ -1,9 +1,9 @@
 Welcome to ``pydrying`` documentation
 ===================================
 
-.. image:: water-drop.svg
-   :target: _images/water-drop.svg
-   :height: 40px
-   :width: 40 px
+.. image:: dryer.svg
+   :target: _images/dryer.svg
+   :height: 80 px
+   :width: 100 px
    :align: center
-**Water-Pinch Analysis**  
+**Drying simulation of solid products**  
